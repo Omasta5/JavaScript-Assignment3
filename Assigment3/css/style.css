@@ -1,0 +1,28 @@
+html{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+}
+
+#orderAPizza {
+    background-color: rgb(48, 149, 236);
+}
+
+.mainHeader {
+    background-color: white;
+}
+
+#companyName {
+    color: brown;
+    font-size: 50px;
+}
+
+#catchphrase {
+    color: red;
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+}
